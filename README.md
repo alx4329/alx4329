@@ -1,9 +1,9 @@
-### Hello! I am Alexis Martinez
+
 ![Fondo LinkedIn](https://user-images.githubusercontent.com/83483042/138026525-cfdb5de7-ccfc-4ce3-9d08-526ffb3e81f7.png)
+
 <a href="https://www.linkedin.com/in/alxmartinezr/">
   <img align="left" alt="Alexis' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-
 <a href="https://github.com/alx4329">
   <img align="left" alt="Alexis' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -14,7 +14,7 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 
-
+### Hello! I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
 - A student and continuous Learner. 
 - Nowadays working on SCIENTIA, an e-commerce where people can upload their Courses, and share them for free or sell them at a fair price. It's getting awsome! 
