@@ -7,7 +7,10 @@
 <a href="https://t.me/alxmrtr">
   <img align="left" alt="Alexis' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
+<br />
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
+
 ### I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
 - A Full Stack Developer and continuous Learner. 
@@ -30,4 +33,4 @@ Go   6 hrs 10 mins   ███████████████████�
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-[![alx4329's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx4329&bg_color=#000000)](https://github.com/anuraghazra/github-readme-stats)
+[![alx4329's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx4329)](https://github.com/anuraghazra/github-readme-stats&bg_color=#000000)
