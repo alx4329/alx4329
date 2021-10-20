@@ -14,17 +14,14 @@
 - Currently working on SCIENTIA, an e-commerce where people can upload their Courses, and share them for free or sell them at a fair price. It's getting awsome! 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+
 📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 ```text
 Go   6 hrs 10 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
-
-
-
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
-
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
