@@ -20,11 +20,8 @@
 
 
 📊 **Weekly development breakdown**
-<!--START_SECTION:waka-->
-```text
-Go   6 hrs 10 mins   █████████████████████████   100.00 % 
-```
-<!--END_SECTION:waka-->
+[![alx4329's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alx4329)](https://github.com/anuraghazra/github-readme-stats)
+
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
