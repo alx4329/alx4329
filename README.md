@@ -1,12 +1,12 @@
-### Hi there 👋
-
-<!--
-**alx4329/alx4329** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
--->
-
+<a href="https://www.linkedin.com/in/alxmartinezr/">
+  <img align="left" alt="Alexis' Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/alx4329">
+  <img align="left" alt="Alexis' Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://t.me/alxmrtr">
+  <img align="left" alt="Alexis' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
+</a>
 
 ### I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
@@ -14,7 +14,14 @@ Here are some ideas to get you started:
 - Currently working on SCIENTIA, an e-commerce where people can upload their Courses, and share them for free or sell them at a fair price. It's getting awsome! 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-[![alx4329's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx4329)](https://github.com/anuraghazra/github-readme-stats)
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Go   6 hrs 10 mins   █████████████████████████   100.00 % 
+```
+<!--END_SECTION:waka-->
+
+
 
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
@@ -26,3 +33,4 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+[![alx4329's GitHub stats](https://github-readme-stats.vercel.app/api?username=alx4329)](https://github.com/anuraghazra/github-readme-stats)
