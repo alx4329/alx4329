@@ -20,7 +20,9 @@
 - Nowadays working on SCIENTIA, an e-commerce where people can upload their Courses, share them for free or sell them at a fair price. It's getting awsome! 
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-
+📊 **Weekly development breakdown**
+<br />
+[![alxmr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxmr)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
