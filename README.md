@@ -22,9 +22,9 @@
 
 
 
-📊 **Weekly development breakdown**
+``📊 **Weekly development breakdown**
 <br />
-[![alx4329's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxmr)](https://github.com/anuraghazra/github-readme-stats)
+[![alx4329's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxmr)](https://github.com/anuraghazra/github-readme-stats)``
 
 **languages and tools:**  
 
