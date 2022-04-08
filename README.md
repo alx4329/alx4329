@@ -11,7 +11,7 @@
   <img align="left" alt="Alexis' Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 <br />
-<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
+<img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" width="50%" />
 
 
 ### Hello! I am Alexis Martinez
