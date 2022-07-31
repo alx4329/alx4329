@@ -17,8 +17,8 @@
 ### Hello! I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
 - A student and continuous Learner. 
-- Nowadays working on SCIENTIA, an e-commerce where people can upload their Courses, share them for free or sell them at a fair price. It's getting awsome! 
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Nowadays working as a freelancer on different projects, such as "Its on meet" (a social media app, ask me for more information) and an Academic System Information for an institute in my town. It is thought to manage students career and their advance on it. It's not finished yet, but still you can check it on my account. It's a full stack project, so there are a backend and a frontend repository
+- I'm currently looking for new opportunities, so don't hesitate to get in touch with me if you need a Full Stack Dev on your team! 
 
 📊 **Weekly development breakdown**
 <br />
