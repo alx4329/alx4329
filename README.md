@@ -23,7 +23,7 @@
 📊 **Weekly development breakdown**
 <br />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="200" /></a>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>
 
 **languages and tools:**  
 
