@@ -24,7 +24,7 @@
 <br />
 [alxmr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxmr)
 
-<figure><embed src="https://wakatime.com/share/@alxmr/e1d3c40e-716a-432d-a60f-fae150e89cdf.svg"></embed></figure>
+<img src="https://wakatime.com/share/@alxmr/e1d3c40e-716a-432d-a60f-fae150e89cdf.svg" height="400"></img>
 
 
 
