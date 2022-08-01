@@ -22,11 +22,8 @@
 
 📊 **Weekly development breakdown**
 <br />
-[alxmr's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alxmr)
 
-<img src="https://wakatime.com/share/@alxmr/e1d3c40e-716a-432d-a60f-fae150e89cdf.svg" height="200"></img>
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" /></a>
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="200" /></a>
 
 **languages and tools:**  
 
