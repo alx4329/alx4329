@@ -24,7 +24,7 @@
 <br />
 
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>
-
+<figure><embed src="https://wakatime.com/share/@alxmr/f1ca920e-1f60-40dc-a00d-a7c200f3e536.svg"></embed></figure>
 **languages and tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
