@@ -17,13 +17,11 @@
 ### Hello! I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
 - A student and continuous Learner. 
-- Nowadays working as a freelancer on different projects, such as "Its on meet" (a social media app, ask me for more information) and an Academic System Information for an institute in my town. It is thought to manage students career and their advance on it. It's not finished yet, but still you can check it on my account. It's a full stack project, so there are a backend and a frontend repository
-- I'm currently looking for new opportunities, so don't hesitate to get in touch with me if you need a Full Stack Dev on your team! 
 
-📊 **Weekly development breakdown**
+📊 **Weekly [development breakdown**
 <br />
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>
+<a href="http](url)s://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>
 
 **languages and tools:**  
 
