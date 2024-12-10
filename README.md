@@ -17,11 +17,11 @@
 ### Hello! I am Alexis Martinez
 - A Full-Stack Developer & Open Source enthusiast.
 - A student and continuous Learner. 
-
+[
 📊 **Weekly [development breakdown**
 <br />
 
-<a href="http](url)s://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>
+<a href="http](url)s://wakatime.com"><img src="https://wakatime.com/share/@alxmr/52ae4b8b-1920-4720-9954-ae537d2d433e.png" height="300" /></a>](url)
 
 **languages and tools:**  
 
